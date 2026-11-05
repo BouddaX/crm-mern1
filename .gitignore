@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+.env.example
+build/
+.vercel/
+.DS_Store
+*jpg
+*jpeg
+*png
+*pdf
+*yaml
+*txt
